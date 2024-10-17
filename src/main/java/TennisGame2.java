@@ -53,6 +53,7 @@ public class TennisGame2 implements TennisGame
             P1res = "Love";
             score = P1res + "-" + P2res;
         }
+        //Salut
         
         if (P1point>P2point && P1point < 4)
         {
